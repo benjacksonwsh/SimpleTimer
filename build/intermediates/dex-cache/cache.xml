@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="G:\SimpleTimer.git\trunk\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1-d0656a0f2c2eb8e5473b308bb4b146e191c395cc.jar" />
+    </item>
+    <item
+        jar="G:\SimpleTimer.git\trunk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="G:\SimpleTimer.git\trunk\app\build\intermediates\pre-dexed\debug\classes-fa3cf7fd292f665975a9eda86fe28d067d68a2ce.jar" />
+    </item>
+    <item
+        jar="G:\SimpleTimer.git\trunk\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="G:\SimpleTimer.git\trunk\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1-c7f570764e7331ec45da1474296d993e2eb9262f.jar" />
+    </item>
+    <item
+        jar="G:\SimpleTimer.git\trunk\app\build\intermediates\exploded-aar\trunk\timer\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="83d7e580d29d9ca07eaa53cc1b0e46954b1fc767">
+        <dex dex="G:\SimpleTimer.git\trunk\app\build\intermediates\pre-dexed\debug\classes-400b138d9515b071bd38374abb555e5ecc7f421c.jar" />
+    </item>
+    <item
+        jar="G:\SimpleTimer.git\trunk\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="G:\SimpleTimer.git\trunk\app\build\intermediates\pre-dexed\debug\classes-27d120721af7f36c1273e397df948d23f2dacd9e.jar" />
+    </item>
+    <item
+        jar="G:\SimpleTimer.git\trunk\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="G:\SimpleTimer.git\trunk\app\build\intermediates\pre-dexed\debug\classes-c42d28f29d0d551ab1e571187f32e5cdf365905c.jar" />
+    </item>
+    <item
+        jar="G:\SimpleTimer.git\trunk\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="G:\SimpleTimer.git\trunk\app\build\intermediates\pre-dexed\debug\classes-276a2002b5e52fd11fdeb326aa3366453528ae39.jar" />
+    </item>
+
+</items>
